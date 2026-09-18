@@ -1,0 +1,19 @@
+# Instagram export and derived lists
+instagram-*.zip
+followers*.json
+followers*.html
+following.json
+following.html
+unfollowers.txt
+not_following.txt
+non_mi_seguono.txt
+tu_non_segui.txt
+
+# Local Python env for this app
+.venv/
+__pycache__/
+
+# PyInstaller output
+build/
+IG Compare.exe
+ConfrontoFollowerIG.exe
